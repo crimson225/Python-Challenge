@@ -1,0 +1,5 @@
+Would like to cite Yannik Alinyoh for help in both problems. Specifically
+on pybank's Change List creation and Pypoll's winner selection.
+
+Would also like to thank Bogdan Gadidov for his help in the nesting of forloops
+in the pypoll problem. 
